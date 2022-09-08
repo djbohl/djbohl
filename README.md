@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my portfolio (:
+- 🔭 I’m currently working on many things!
 - 🌱 I’m currently learning PHP and Python
-- 📫 How to reach me <a href="twitter.com/dbohltech">Twitter</a>
+- 🤔 I'm looking to collaborate on open source projects!
+- 📫 How to reach me [Twitter](https://twitter.com/dbohltech)
 - ⚡ Fun fact I 🤍☕ > 🐈 > 💻 > 🎨 > 🥾⛰️
 
