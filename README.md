@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on many things!
 - 🌱 I’m currently learning PHP and Python
 - 🤔 I'm looking to collaborate on open source projects!
-- 📫 How to reach me [Twitter](https://twitter.com/dbohltech)
+- 📫 How to reach me [Twitter](https://twitter.com/donnabohldesign)
 - ⚡ Fun fact I 🤍☕ > 🐈 > 💻 > 🎨 > 🥾⛰️
 
