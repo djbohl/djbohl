@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on many things.
-- 🌱 I’m currently learning as much as possible!
+- 🌱 I’m currently learning php.
 - 🤔 I'm looking to collaborate on open source projects!
 - ⚡ Fun fact I 🤍☕ > 🐈 > 💻 > 🎨 > 🥾⛰️
 
