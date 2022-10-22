@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on many things.
-- 🌱 I’m currently learning php.
-- 🤔 I'm looking to collaborate on open source projects!
+- 🔭 I’m currently working on 3D and ar.
+- 🌱 I’m currently learning python and c#.
+- 🤔 I'm looking to learn as much as possible about the future of technology.
 - ⚡ Fun fact I 🤍☕ > 🐈 > 💻 > 🎨 > 🥾⛰️
 
