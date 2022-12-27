@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Donna-Jo, but you can call me D.J. 👋
 
-<!--
-**djbohl/djbohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on building some projects for my portfolio
-- 🌱 I’m currently learning java
-- ⚡ Fun fact I 🤍☕ > 🐈 > 💻 > 🎨 > 🥾⛰️
+I am a self-taught **Front-End Developer** and a **software development** student.
 
+I love to learn new things, understand how things work and figure out the best solution to a problem.
+
+- 🔭 At the moment I am working on building personal projects for my portfolio
+- 📝 I plan to invest more time into contributing to open source projects
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact I 🤍 ☕, 🐈, 💻, 🥾⛰️
