@@ -1,9 +1,9 @@
 <img src='banner.png'></img>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=8D1BFF)](https://www.linkedin.com/in/djbohl/)
-[![Dribbble Badge](https://img.shields.io/badge/Dribbble-Profile-informational?style=flat&logo=dribbble&logoColor=white&color=8D1BFF)](https://www.dribbble.com/djbohl/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=8D1BFF)](https://codepen.io/donnabohl)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=FF5AE4)](https://www.linkedin.com/in/djbohl/)
+[![Dribbble Badge](https://img.shields.io/badge/Dribbble-Profile-informational?style=flat&logo=dribbble&logoColor=white&color=FF5AE4)](https://www.dribbble.com/djbohl/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=FF5AE4)](https://codepen.io/donnabohl)
 
 ### Hi there, I'm Donna-Jo, but you can call me D.J. I'm a Front-End Developer, UI Designer and creative coder, currently in school for Software Development. I enjoy building interactive, user-friendly websites.👋
 
