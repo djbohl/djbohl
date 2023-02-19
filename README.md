@@ -45,8 +45,7 @@
 
 ### 👱🏻‍♀️Fun Facts:
 #### Hobbies:  🎨 Painting 🧗 Hiking 🌎 Traveling 🏛 Going to science and art museums 📖 Reading and 🧵 Crafting
-#### I was born and raised in Boston and I've now lived in PA for several years.
 #### I know how to speak some German but I'm still trying to find the time to finish learning 🤪
-#### Classes I'm currently taking are UI Design and Java in school (not because I don't know it because it's required 💯)
+#### I'm currently learning Java and Three.js
 
 
