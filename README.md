@@ -1,4 +1,4 @@
-<img src='banner.png'></img>
+<img src='bannergithub.png'></img>
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=FF5AE4)](https://www.linkedin.com/in/djbohl/)
