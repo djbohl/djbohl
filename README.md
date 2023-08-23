@@ -65,7 +65,7 @@
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=djbohl&show_icons=true&locale=en&layout=compact&theme=radical" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=djbohl&langs_count=10&show_icons=true&locale=en&theme=radical&size_weight=1&count_weight=0.5" />
 </td>
 </tr>
 </table>
