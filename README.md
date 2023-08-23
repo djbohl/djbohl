@@ -12,7 +12,7 @@
 - 🔭 *Currently Working on* **Management Systems**
 - *Currently learning* **machine learning and IOT** 👨‍💻
 - *Looking to collaborate* on **Open Source programs** 
-- *Always available* to *help*  **Learners**
+- *Available* to **collaborate**
 - **Fun fact:** *When I'm not coding I make art* 🎨
 - 📫 How to reach: **contact@donnabohl.tech** 📧
 
