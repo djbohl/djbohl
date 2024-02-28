@@ -69,8 +69,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=radical" alt="djbohl" /></a> </p>
 
-<!--
 ## Projects
 [![FrenchQuiz](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=french-quiz-game&theme=radical)](https://github.com/djbohl/french-quiz-game)
 [![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=radical)](https://github.com/djbohl/real-estate-site)
--->
+
