@@ -9,12 +9,12 @@
   </em>  
 </p>
 
-- 🔭 *Currently Working on* **Management Systems**
-- *Currently learning* **machine learning and IOT** 👨‍💻
+- 🔭 *Currently Working on* **an application portal**
+- *Currently* **Expanding my current knowledge** 👨‍💻
 - *Looking to collaborate* on **Open Source programs** 
-- *Available* to **collaborate**
-- **Fun fact:** *When I'm not coding I make art* 🎨
-- 📫 How to reach: **contact@donnabohl.tech** 📧
+- *Available* to **collaborate and for hire**
+- **Fun fact:** *When I'm not coding I enjoy 3D modeling and painting* 🎨
+<!-- 📫 How to reach: **** 📧 -->
 
 ### Tools and Languages
 
@@ -60,15 +60,6 @@
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=ff246c)
 ![](https://img.shields.io/badge/Tools-FramerMotion-informational?style=flat&logo=FramerMotion&logoColor=white&color=ff246c)
 
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=djbohl&langs_count=10&show_icons=true&locale=en&theme=radical&size_weight=1&count_weight=0.5" />
-</td>
-</tr>
-</table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djbohl&theme=radical" />
 </p>
@@ -78,7 +69,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=radical" alt="djbohl" /></a> </p>
 
-
+<!--
 ## Projects
 [![FrenchQuiz](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=french-quiz-game&theme=radical)](https://github.com/djbohl/french-quiz-game)
 [![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=radical)](https://github.com/djbohl/real-estate-site)
+-->
