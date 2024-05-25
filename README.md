@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=black&color=67DBB1)](https://www.linkedin.com/in/djbohl/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=black&color=9700FF)](https://www.linkedin.com/in/djbohl/)
 
 <p>
   <em>
@@ -34,40 +34,42 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=VisualBasic&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=black&color=v)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=VisualBasic&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=black&color=9700FF)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=black&color=9700FF)
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=black&color=67DBB1)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=black&color=9700FF)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=black&color=9700FF)
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&background=B9EBE9" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=meta-dark&background=45%2CEB3DEB%2C825EEB&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&rank_icon=percentile&show_icons=true&theme=ambient_gradient" />
 </p>
 <br>
 <br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=radical" alt="djbohl" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=ambient_gradient" alt="djbohl" /></a> </p>
 
 ## Projects
-[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=radical)](https://github.com/djbohl/C_Programming_Projects)
-[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=radical)](https://github.com/djbohl/EmployeeDataForm)
-[![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=radical)](https://github.com/djbohl/real-estate-site)
+[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=ambient_gradient)](https://github.com/djbohl/C_Programming_Projects)
+[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=ambient_gradient)](https://github.com/djbohl/EmployeeDataForm)
+[![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=ambient_gradient)](https://github.com/djbohl/real-estate-site)
 
 
