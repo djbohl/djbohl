@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 *Currently Working on* **getting project+ and network+ certified**
-- *Currently* **finishing my degree this summer** 👨‍💻
+- **Finishing my degree this summer** 👨‍💻
 - *Looking to collaborate* on **Open Source programs and indie games** 
 - *Available* to **collaborate** and for **hire**
 - **Fun fact:** *When I'm not coding I enjoy making digital and traditional art* 🎨
