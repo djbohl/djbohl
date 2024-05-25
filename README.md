@@ -2,7 +2,7 @@
 
 <p>
   <em>
-   Hi there! I'm a passionate <b>developer</b> and a <b>tech enthusiast</b>&nbsp;, currently finishing my associate's degree in <b><span>Software Development</span></b></a>, who believes in solving  
+   Hi there! I'm a creative, passionate <b>developer</b>, <b> designer </b> and <b>tech enthusiast</b>&nbsp;. Currently finishing my associate's degree in <b><span>Software Development</span></b></a>, who believes in solving  
       <b>Real World Problems</b> using <b>technology</b> to <b>help others</b>. Currently looking to contribute to
     <b>open source projects</b> and 
     <b>volunteer</b> to help non-profits.
