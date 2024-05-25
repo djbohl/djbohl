@@ -57,7 +57,7 @@
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=black&color=67DBB1)
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djbohl&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djbohl&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=B9EBE9" />
 </p>
 <br>
 <br>
