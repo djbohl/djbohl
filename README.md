@@ -58,7 +58,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=meta-dark&background=45%2CEB3DEB%2C825EEB&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&rank_icon=percentile&show_icons=true&theme=ambient_gradient" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&rank_icon=default&show_icons=true&theme=ambient_gradient" /> -->
 </p>
 <br>
 <br>
@@ -70,6 +70,4 @@
 ## Projects
 [![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=ambient_gradient)](https://github.com/djbohl/C_Programming_Projects)
 [![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=ambient_gradient)](https://github.com/djbohl/EmployeeDataForm)
-[![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=ambient_gradient)](https://github.com/djbohl/real-estate-site)
-
 
