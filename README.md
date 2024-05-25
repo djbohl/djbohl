@@ -1,19 +1,19 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=ff246c)](https://www.linkedin.com/in/djbohl/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=black&color=67DBB1)](https://www.linkedin.com/in/djbohl/)
 
 <p>
   <em>
-   Hi there! I'm a passionate <b>developer</b> and a <b>code enthusiast</b>&nbsp;, currently pursuing a degree in <b><span>Software Development</span></b></a>, who believes in solving  
+   Hi there! I'm a passionate <b>developer</b> and a <b>tech enthusiast</b>&nbsp;, currently finishing my associate's degree in <b><span>Software Development</span></b></a>, who believes in solving  
       <b>Real World Problems</b> using <b>technology</b> to <b>help others</b>. Currently looking to contribute to
     <b>open source projects</b> and 
     <b>volunteer</b> to help non-profits.
   </em>  
 </p>
 
-- 🔭 *Currently Working on* **an application portal**
-- *Currently* **Expanding my current knowledge** 👨‍💻
-- *Looking to collaborate* on **Open Source programs** 
-- *Available* to **collaborate and for hire**
-- **Fun fact:** *When I'm not coding I enjoy 3D modeling and painting* 🎨
+- 🔭 *Currently Working on* **getting project+ and network+ certified**
+- *Currently* **finishing my degree this summer** 👨‍💻
+- *Looking to collaborate* on **Open Source programs and indie games** 
+- *Available* to **collaborate** and for **hire**
+- **Fun fact:** *When I'm not coding I enjoy making digital and traditional art* 🎨
 <!-- 📫 How to reach: **** 📧 -->
 
 ### Tools and Languages
@@ -28,40 +28,36 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-AfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=ff246c)
-![](https://img.shields.io/badge/Tools-FramerMotion-informational?style=flat&logo=FramerMotion&logoColor=white&color=ff246c)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=VisualBasic&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=black&color=67DBB1)
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=black&color=67DBB1)
+
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=black&color=67DBB1)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=black&color=67DBB1)
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djbohl&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djbohl&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2C1D4943%2C142F2F" />
 </p>
 <br>
 <br>
@@ -70,6 +66,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=radical" alt="djbohl" /></a> </p>
 
 ## Projects
-[![FrenchQuiz](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=french-quiz-game&theme=radical)](https://github.com/djbohl/french-quiz-game)
+[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=radical)](https://github.com/djbohl/C_Programming_Projects)
+[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=radical)](https://github.com/djbohl/EmployeeDataForm)
 [![RealEstateWebsite](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=radical)](https://github.com/djbohl/real-estate-site)
 
