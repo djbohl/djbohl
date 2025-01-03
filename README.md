@@ -3,15 +3,12 @@
 <p>
   <em>
    Hi there! I'm a creative, passionate <b>developer</b>, <b> designer </b> and <b>tech enthusiast</b>&nbsp;, who believes in solving  
-      <b>Real World Problems</b> using <b>technology</b> to <b>help others</b>. Currently looking to contribute to
-    <b>open source projects</b> and 
-    <b>volunteer</b> to help non-profits.
+      <b>Real World Problems</b> using <b>technology</b> to <b>help others</b>.
   </em>  
 </p>
 
-- 🔭 *Currently Working on* **getting project+ and network+ certified**
-- **Finishing my degree this summer** 👨‍💻
-- *Looking to collaborate* on **Open Source programs and indie games** 
+- 🔭 *Currently Learning* **LLMs and working towards a Salesforce AI Specialist Certification**
+- **Associate's of Science in Software Development** 👨‍💻
 - *Available* to **collaborate** and for **hire**
 - **Fun fact:** *When I'm not coding I enjoy making digital and traditional art* 🎨
 <!-- 📫 How to reach: **** 📧 -->
@@ -35,6 +32,7 @@
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=black&color=00A7FF)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=VisualBasic&logoColor=black&color=00A7FF)
@@ -45,6 +43,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=black&color=00A7FF)
+![](https://img.shields.io/badge/Code-JupyterNotebooks-informational?style=flat&logo=JupyterNotebooks&logoColor=black&color=00A7FF)
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=black&color=00A7FF)
