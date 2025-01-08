@@ -11,9 +11,42 @@
 - **Associate's of Science in Software Development** 👨‍💻
 - *Available* to **collaborate** and for **hire**
 - **Fun fact:** *When I'm not coding I enjoy making digital and traditional art* 🎨
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=algolia&hide_border=true&&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=meta-dark&background=00A7FF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&rank_icon=default&show_icons=true&theme=ambient_gradient" /> -->
+</p>
+<br>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=ambient_gradient" alt="djbohl" /></a> </p>
+
+## Websites
+Websites I've worked on for clients, work and personal projects:
+<br>
+[🟦 Central Florida Packaging ](https://cflpkg.com)
+<br>
+**Description:**
+Wix website creation with customized plugins and CMS integration for dynamic content loading to decrease load times and ease of content management.
+<br><br>
+[🟦 Anytime Weather ](https://djbohl.wixsite.com/anytimeweather)
+<br>
+**Description:**
+Custom coded weather website using Velo for Wix. Backend services, integration of OpenWeatherMap API, customized Wix Members solution for database integration to manage user's favorite locations, front-end development using Javascript and Wix API
+<br><br>
+[🟦 Kencove Farm Fence Supplies ](https://kencove.com)
+<br>
+**Description:**
+Contributed to website development using Next.js, Strapi, and TypeScript, resolving bugs and ensuring functionality with TDD pipelines, utilized Gitlab for version control. <br><br>
+
+## Projects
+[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=algolia)](https://github.com/djbohl/C_Programming_Projects)
+[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=algolia)](https://github.com/djbohl/EmployeeDataForm)
+[![Real-Estate Website](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=algolia)](https://github.com/djbohl/real-estate-site)
+[![Real-Estate Website](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=electric-vehicle-data-visualization&theme=algolia)](https://github.com/djbohl/electric-vehicle-data-visualization)
+
+
 <!-- 📫 How to reach: **** 📧 -->
 
-### Tools and Languages
+## Tools and Languages
 
 <p align="left"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -54,19 +87,4 @@
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=black&color=00A7FF)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Nodejs&logoColor=black&color=00A7FF)
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=algolia&hide_border=true&&background=45%2C1D4943%2C142F2F](https://github-readme-streak-stats.herokuapp.com?user=djbohl&theme=meta-dark&background=00A7FF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=djbohl&include_all_commits=true&rank_icon=default&show_icons=true&theme=ambient_gradient" /> -->
-</p>
-<br>
-<br>
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djbohl&theme=ambient_gradient" alt="djbohl" /></a> </p>
-
-## Projects
-[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=algolia)](https://github.com/djbohl/C_Programming_Projects)
-[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=algolia)](https://github.com/djbohl/EmployeeDataForm)
 
