@@ -8,7 +8,8 @@
 </p>
 
 - 🔭 *Currently Learning* **LLMs and working towards a Salesforce AI Specialist Certification**
-- **Associate's of Science in Software Development** 👨‍💻
+- 📚 *Currently Enrolled in* **BA in Computer Science**
+- 🎓 **Associate's of Science in Software Development** 👨‍💻
 - *Available* to **collaborate** and for **hire**
 - **Fun fact:** *When I'm not coding I enjoy making digital and traditional art* 🎨
 <p align="center">
