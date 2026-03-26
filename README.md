@@ -101,14 +101,5 @@ Custom coded weather website using Velo for Wix. Backend services, integration o
 Contributed to website development using Next.js, Strapi, and TypeScript, resolving bugs and ensuring functionality with TDD pipelines, utilized Gitlab for version control. <br><br>
 
 
-## Projects
-
-
-[![Collection of C Programming Projects](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=C_Programming_Projects&theme=algolia)](https://github.com/djbohl/C_Programming_Projects)
-[![Employee Data Form Visual Basic](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=EmployeeDataForm&theme=algolia)](https://github.com/djbohl/EmployeeDataForm)
-[![Real-Estate Website](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=real-estate-site&theme=algolia)](https://github.com/djbohl/real-estate-site)
-[![Real-Estate Website](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=electric-vehicle-data-visualization&theme=algolia)](https://github.com/djbohl/electric-vehicle-data-visualization)
-
-
 <!-- 📫 How to reach: **** 📧 -->
 
