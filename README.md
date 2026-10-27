@@ -14,9 +14,7 @@
 - [🌐 Websites](#websites)
 - [🤝 Projects](#projects)
 
-![Language Stats](stats/leaderboard_by_repos.png)
-![Language Stats](stats/leaderboard_by_bytes.png)
-![Language Stats](stats/leaderboard_by_weighted.png)
+<!-- ![Language Stats](stats/leaderboard_by_repos.png) -- />
 
 <!-- 
 # 💻 Tech Stack
