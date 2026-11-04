@@ -101,3 +101,4 @@ Contributed to website development using Next.js, Strapi, and TypeScript, resolv
 -->
 <!-- 📫 How to reach: **** 📧 -->
 
+## Projects &darr;
