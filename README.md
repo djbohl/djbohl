@@ -10,7 +10,6 @@
 <!--  - [💻 Tech Stack](#-tech-stack) -->
 - [📊 GitHub Stats](#-github-stats)
 - [🏆 GitHub Trophies](#-github-trophies)
-- [🤝 Projects](#projects)
 
 <!-- ![Language Stats](stats/leaderboard_by_repos.png) -- />
 
@@ -100,5 +99,3 @@ Contributed to website development using Next.js, Strapi, and TypeScript, resolv
 
 -->
 <!-- 📫 How to reach: **** 📧 -->
-
-## Projects &darr;
