@@ -27,12 +27,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=djbohl&icon=6&color=2)](https://visitcount.itsvg.in)
 
-## 🎨 VS Code Themes
 <!--
+## 🎨 VS Code Themes
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/djbohl/hq-pink-blue/main/assets/banner.png" alt="HQ Pink + Blue Banner" width="80%" />
 </p>
--->
+
 
 <h3 align="left">🎨 HQ Pink + Blue</h3>
 
@@ -54,7 +55,7 @@
 
 -->
 ---
-
+<!--
 ## 🌈 Variants
 
 | Theme Name | Type | Description |
@@ -75,8 +76,8 @@ Or install directly via command line:
 ```bash
 code --install-extension djbohl.hq-pink-blue
 ```
-
-
+-->
+<!--
 ## Websites
 
 
@@ -97,6 +98,6 @@ Custom coded weather website using Velo for Wix. Backend services, integration o
 **Description:**
 Contributed to website development using Next.js, Strapi, and TypeScript, resolving bugs and ensuring functionality with TDD pipelines, utilized Gitlab for version control. <br><br>
 
-
+-->
 <!-- 📫 How to reach: **** 📧 -->
 
